@@ -7,10 +7,9 @@ Udemy Machine learning A-Z course
 Andrej Karpathy - GPT 2 recreation
 
 In Progress:
+MNIST with KAN's
 
 To Do:
-
-Image recognition with KAN's
-stock signals with KAN's
+stock signals with KAN's?
 
 
