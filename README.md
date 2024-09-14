@@ -1,4 +1,5 @@
 Complete:
+
 Andrej Karpathy - Micrograd follow along
 
 Andrej Karpathy - Makemore Follow Along
@@ -19,6 +20,7 @@ In Progress:
 LSTM stock signal predict on FAIM Data
 
 Putnam Question Predict
+
 
 To Do:
 
