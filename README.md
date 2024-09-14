@@ -5,11 +5,13 @@ Andrej Karpathy - gpt  build
 Andrej Karpathy - GPT 2 tokenizer recreation
 Udemy Machine learning A-Z course
 Andrej Karpathy - GPT 2 recreation
-
-In Progress:
 MNIST with KAN's
 
+In Progress:
+LSTM stock signal predict on FAIM Data
+Putnam Question Predict
+
 To Do:
-stock signals with KAN's?
+
 
 
