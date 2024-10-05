@@ -14,10 +14,9 @@ Andrej Karpathy - GPT 2 recreation
 
 MNIST with KAN's
 
+LSTM STock Prediction: see FAIM Hackathon
 
 In Progress:
-
-LSTM stock signal predict on FAIM Data
 
 Putnam Question Predict
 
